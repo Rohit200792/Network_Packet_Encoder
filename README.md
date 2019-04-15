@@ -27,7 +27,7 @@ desired network simulation and transmission comparison.
 
 Run the program using the command - 
     
-    "python3 cope.py 10 20".
+    "python3 Network_Packet_Encoder.py 10 20".
 >10 and 20 are sample inputs.
 >10 is the number of neighbours(n count).
 >20 is the number of packets in the system(p count).
