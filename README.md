@@ -1,6 +1,7 @@
 # Network_Packet_Encoder
 An application that stimulates a network with 1 source and 'n' sinks and generates best set of packet combinations to achieve minimum number of transmissions. This application demonstrates advantage of encoded transmission over un-encoded transmission.
 
+## API Description
 The algorithm as implemented can be viewed in the Network_Packet_Encoder.py. The program has one driver function and two helper functions as follows:
 
     random input(n count, p count)
@@ -25,7 +26,7 @@ For both modes the function maintains a count of the number of transmissions and
 This is the driver function which takes in the inputs for n count and p count and generates the
 desired network simulation and transmission comparison.
 
-Run the program using the command - 
+### Run the program using the command - 
     
     "python3 Network_Packet_Encoder.py 10 20".
 >10 and 20 are sample inputs.
